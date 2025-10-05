@@ -60,7 +60,7 @@ cd Sistem-POS
 Jalankan perintah berikut dari folder root (`Sistem-POS/`). Perintah ini akan menginstal dependensi untuk root, frontend, dan backend sekaligus.
 
 ```bash
-npm install && npm install --prefix frontend && npm install --prefix backend
+npm install
 ```
 
 ### 4. Konfigurasi Backend & Database
